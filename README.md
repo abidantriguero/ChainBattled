@@ -1,4 +1,4 @@
-# 3. How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
+# Week 3: How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
 
 ## More precisely, you'll learn:
 
